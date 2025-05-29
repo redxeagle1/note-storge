@@ -4,49 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bc44d0d045631842",
+        "id": "aacf6e7098e46835",
         "type": "tabs",
         "children": [
           {
-            "id": "fdcbff0bc1bd59f0",
+            "id": "99c88379e940bdfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "create a link.md",
-                "mode": "source",
-                "source": false
+                "path": "python/libraries/pandas"
               },
               "icon": "lucide-file",
-              "title": "create a link"
-            }
-          },
-          {
-            "id": "aadeb067b5d947de",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/latest.md"
-            }
-          },
-          {
-            "id": "4d229f0f2f0f980f",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/GetStarted.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/GetStarted.md"
+              "title": "pandas"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,6 +31,7 @@
       {
         "id": "71837eeff04fbbef",
         "type": "tabs",
+        "dimension": 70.02583979328165,
         "children": [
           {
             "id": "cdd33377ed559154",
@@ -111,6 +85,23 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "e3da994af7d6bcea",
+        "type": "tabs",
+        "dimension": 29.97416020671835,
+        "children": [
+          {
+            "id": "2eafa54c9bec57d1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,9 +203,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d229f0f2f0f980f",
+  "active": "99c88379e940bdfb",
   "lastOpenFiles": [
-    "Tags",
-    "create a link.md"
+    "python/libraries/pandas/pandas index.md",
+    "python/libraries/libraries.md",
+    "python/libraries/pandas/pandas important concepts.md",
+    "python/libraries/pandas/pandas.md",
+    "python/libraries/pandas/pandas cheat sheet.md",
+    "python/libraries/pandas/pandas code snipits.md",
+    "python/libraries/pandas/pandas application.md",
+    "Media/videos/Facebook_vid_1.mp4",
+    "Media/videos/debugging in general.mp4",
+    "Media/videos/20250424-0902-31.2636231.mp4",
+    "Media/videos",
+    "Media/images/SQL_schemas.png",
+    "Media/images/simple_REGEX_in_SQL_p2.png",
+    "Media/images/simple_REGEX_in_SQL.png",
+    "Media/images/Screenshot_٢٠٢٥٠٤٢٣_٠٩٠٤١٥_Coursera.jpg",
+    "Media/images/Screenshot_٢٠٢٥٠٤٢٣_٠٩٠٢٣٧_Coursera.jpg",
+    "Media/images/Screenshot_٢٠٢٥٠٤١٧_١٣٣٩٢٠_Coursera.jpg",
+    "Media/images/Screenshot_٢٠٢٥٠٤١٧_١٣٠٢٠٢_Coursera.jpg",
+    "Media/images/Pasted image 20250521073644.png",
+    "Media/images/Pasted image 20250521073608.png",
+    "Media/images/Pasted image 20250518113539.png",
+    "Media/images",
+    "Media/docs and pdfs",
+    "Media",
+    "python/libraries/pandas",
+    "python/libraries/plotly.md",
+    "python/libraries/matplotlip.md",
+    "python/libraries",
+    "python/general concepts on python",
+    "python/python course 1.md",
+    "code exercise/PYTHON/Jaden Casing Strings.md",
+    "code exercise/PYTHON/Convert string to camel case  exercise.md",
+    "machine learnig and AI/Your first machine learning model A guide.md",
+    "machine learnig and AI/Why model evaluation matters.md",
+    "machine learnig and AI/What is the difference between synthetic data and data augmentation.md",
+    "machine learnig and AI/What is machine learning.md",
+    "machine learnig and AI/What is generative AI.md",
+    "machine learnig and AI/What is data augmentation  and why matters.md",
+    "machine learnig and AI/What is a neural network in machine learning.md",
+    "machine learnig and AI/Using Generative Adversarial Networks (GANs).md",
+    "machine learnig and AI/Unraveling the confusion matrix.md",
+    "machine learnig and AI/The ethics conserns of AI-Generated content.md",
+    "machine learnig and AI/Synthetic data in ML - Case studies.md",
+    "machine learnig and AI/Synthetic data generation techniques.md",
+    "machine learnig and AI/Synthetic data - Balancing innovation and responsibility.md"
   ]
 }
