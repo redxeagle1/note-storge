@@ -11,6 +11,7 @@
             "id": "b1928bb3ff85bed5",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "jnknk.md",
@@ -299,6 +300,12 @@
               },
               "icon": "lucide-file",
               "title": "Untitled 18"
+=======
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+>>>>>>> parent of b2c8a69 (vault backup: 2025-05-29 11:16:58)
             }
           }
         ],
@@ -475,6 +482,7 @@
   },
   "active": "0deeb4c2bb76a6ad",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Untitled 18.md",
     "Untitled 17.md",
     "Untitled 16.md",
@@ -497,6 +505,8 @@
     "nf;nklfv.md",
     "jnknk.md",
     "create a link.md",
+=======
+>>>>>>> parent of b2c8a69 (vault backup: 2025-05-29 11:16:58)
     "Welcome.md"
   ]
 }
