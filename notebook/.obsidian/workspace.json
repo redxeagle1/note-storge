@@ -1,56 +1,66 @@
 {
   "main": {
-    "id": "09fe6172a8abfedc",
+    "id": "672287a66f2b53e3",
     "type": "split",
     "children": [
       {
-        "id": "b4e3683a43b5b9e6",
+        "id": "bc44d0d045631842",
         "type": "tabs",
         "children": [
           {
-            "id": "b1928bb3ff85bed5",
+            "id": "fdcbff0bc1bd59f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jnknk.md",
+                "file": "create a link.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jnknk"
+              "title": "create a link"
             }
           },
           {
-            "id": "1cd22a7472a3aa3f",
+            "id": "aadeb067b5d947de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-uri-view",
               "state": {
-                "file": "nf;nklfv.md",
-                "mode": "source",
-                "source": false
+                "path": "https://www.make.md/static/latest.md"
               },
               "icon": "lucide-file",
-              "title": "nf;nklfv"
+              "title": "https://www.make.md/static/latest.md"
+            }
+          },
+          {
+            "id": "4d229f0f2f0f980f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/GetStarted.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/GetStarted.md"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4552e80d8e22e139",
+    "id": "5cc3c2633ae0d91d",
     "type": "split",
     "children": [
       {
-        "id": "d468fc88b6fb44a9",
+        "id": "71837eeff04fbbef",
         "type": "tabs",
         "children": [
           {
-            "id": "324eff6268701306",
+            "id": "cdd33377ed559154",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +73,7 @@
             }
           },
           {
-            "id": "ac04b21605a89580",
+            "id": "c2a7ff126294f318",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +90,7 @@
             }
           },
           {
-            "id": "40b16a0ab2c82201",
+            "id": "3b96acab37209728",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,44 +98,38 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          }
-        ]
-      },
-      {
-        "id": "cdb8bc85736d73b1",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "0deeb4c2bb76a6ad",
+            "id": "e657470f97a5573e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "mk-path-view",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "ceedfa783f57c14e",
+    "id": "260c7abf4a4ad66c",
     "type": "split",
     "children": [
       {
-        "id": "871e415de3354021",
+        "id": "55ec4182430b22ff",
         "type": "tabs",
         "children": [
           {
-            "id": "a08beb664560b775",
+            "id": "fe0ee69167f2419d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nf;nklfv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,25 +139,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for nf;nklfv"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "61577b1442d33f51",
+            "id": "a84184da934d8bf6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nf;nklfv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from nf;nklfv"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "4dbb7db9b06e2bae",
+            "id": "114f29bccdbd1fcd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -168,22 +171,21 @@
             }
           },
           {
-            "id": "c03f12d7b38b8d56",
+            "id": "572df7e5d2d18694",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "nf;nklfv.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of nf;nklfv"
+              "title": "Outline"
             }
           },
           {
-            "id": "40754be33229d249",
+            "id": "a7445d4a1185403b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -210,30 +212,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cd22a7472a3aa3f",
+  "active": "4d229f0f2f0f980f",
   "lastOpenFiles": [
-    "Untitled 18.md",
-    "nf;nklfv.md",
-    "Untitled 15.md",
-    "Untitled 12.md",
-    "Untitled 11.md",
-    "Untitled 10.md",
-    "Untitled 9.md",
-    "Untitled 8.md",
-    "Untitled 7.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Untitled 17.md",
-    "Untitled 16.md",
-    "Untitled 14.md",
-    "Untitled 13.md",
-    "jnknk.md",
-    "create a link.md",
-    "Welcome.md"
+    "Tags",
+    "create a link.md"
   ]
 }
