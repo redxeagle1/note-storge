@@ -13,16 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "jnknk.md",
-=======
-                "file": "create a link.md",
->>>>>>> parent of b61fd25 (lol)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
               "title": "jnknk"
             }
           },
@@ -304,9 +299,6 @@
               },
               "icon": "lucide-file",
               "title": "Untitled 18"
-=======
-              "title": "create a link"
->>>>>>> parent of b61fd25 (lol)
             }
           }
         ],
@@ -399,11 +391,6 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Untitled 18.md",
-=======
-                "file": "create a link.md",
->>>>>>> parent of b61fd25 (lol)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -413,11 +400,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-              "title": "Backlinks for Untitled 18"
-=======
-              "title": "Backlinks for create a link"
->>>>>>> parent of b61fd25 (lol)
+              "title": "Backlinks"
             }
           },
           {
@@ -426,20 +409,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Untitled 18.md",
-=======
-                "file": "create a link.md",
->>>>>>> parent of b61fd25 (lol)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
-              "title": "Outgoing links from Untitled 18"
-=======
-              "title": "Outgoing links from create a link"
->>>>>>> parent of b61fd25 (lol)
+              "title": "Outgoing links"
             }
           },
           {
@@ -463,21 +437,12 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Untitled 18.md",
-=======
-                "file": "create a link.md",
->>>>>>> parent of b61fd25 (lol)
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
-              "title": "Outline of Untitled 18"
-=======
-              "title": "Outline of create a link"
->>>>>>> parent of b61fd25 (lol)
+              "title": "Outline"
             }
           },
           {
@@ -508,10 +473,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28e9d9bef9a6e15e",
+  "active": "0deeb4c2bb76a6ad",
   "lastOpenFiles": [
-    "Untitled 17.md",
     "Untitled 18.md",
+    "Untitled 17.md",
     "Untitled 16.md",
     "Untitled 15.md",
     "Untitled 14.md",
